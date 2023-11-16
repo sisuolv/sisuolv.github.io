@@ -12,7 +12,7 @@
 ### *Next-POI Recommendation*
 **2022.09 - 2023.04**
 
-**Supervisor: Prof. [Shanshan Feng(冯山山)](https://scholar.google.com.sg/citations?user=yX-lswoAAAAJ&hl=en)**
+**Supervisor: Prof. [Shanshan Feng(冯山山)](https://www.a-star.edu.sg/cfar/about-cfar/our-team/feng-shanshan)**
 
 
 - Thoroughly reviewed all the papers, and successfully replicated the code from groundbreaking studies on Next-POI, published in 2021 and 2022. Gaining a basic understanding of the Next-POI field.
