@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sisuo LYU (吕思索)"
-description              : "Undergraduate student in Computer Science and Technology."
+description              : "MPhil student in Data Science and Analytics."
 repository               : "sisuolv/sisuolv.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -26,11 +26,11 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Sisuo LYU (吕思索)"
   avatar           : "images/ry_profile.jpeg"
-  bio              : "Harbin Institute of Technology, Shenzhen"
-  location         : "Shenzhen, China"
+  bio              : "The Hong Kong University of Science and Technology (Guangzhou)"
+  location         : "Guangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : # "https://scholar.google.com/citations?user=BaDG4pAAAAAJ&hl=zh-CN)"
+  googlescholar    : "https://scholar.google.com/citations?user=BaDG4pAAAAAJ&hl=zh-CN)"
   email            : "sisuolv@stu.hit.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -52,8 +52,6 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : https://www.kaggle.com/sisuolv
-  steam            : https://sisuolv.github.io/docs/Sisuo_Lyu_CV.pdf
-  tumblr           : https://sisuolv.github.io/docs/Sisuo_Lyu_Transcript.pdf
   twitter          : 
   vine             :
   weibo            :
