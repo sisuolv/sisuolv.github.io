@@ -2,7 +2,7 @@
 
 - *2024.05* Outstanding Graduate, Harbin Institute of Technology 
 
-- *2023.11* [Huawei AI Education Base Scholarship](http://cs.hitsz.edu.cn/info/1019/6971.htm), Huawei
+- *2024.03* [Huawei AI Education Base Scholarship](http://cs.hitsz.edu.cn/info/1019/6971.htm), Huawei
 
 - *2023.11* Outstanding Student Honor, Harbin Institute of Technology
 
