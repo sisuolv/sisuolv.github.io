@@ -1,8 +1,8 @@
 
-I am currently a fourth-year undergraduate student at [Harbin Institute of Technology, Shenzhen(哈尔滨工业大学（深圳）)](https://www.hitsz.edu.cn/index.html) in **Computer Science and Technology**.
+I am currently a first-year MPhil student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) in [Data Science and Analytics](https://dsa.hkust-gz.edu.cn/), supervised by Prof. [Yuxuan Liang](https://yuxuanliang.com/).
 
-My research interest includes **data mining, recommendation system, computer vision, and knowledge distillation(Graduation Project)**.
+My research interests include **data mining**, **recommendation systems**, and **computer vision**.
 
-I have been involved in several research experiences, including next-poi recommendation in data mining, advised by [Shanshan Feng(冯山山)](https://www.a-star.edu.sg/cfar/about-cfar/our-team/feng-shanshan); hyperspectral anomaly detection in computer version, advised by [Yongyong Chen(陈勇勇)](http://faculty.hitsz.edu.cn/chenyongyong) and knowledge distillation in model compression, advised by [Miao Zhang(张淼)](http://faculty.hitsz.edu.cn/zhangmiao).
+I hold a B.Eng degree in **Computer Science and Technology** from [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html), advised by Prof. [Miao Zhang](http://faculty.hitsz.edu.cn/zhangmiao). Fortunately, I have also received guidance from Prof. [Shanshan Feng](https://www.a-star.edu.sg/cfar/about-cfar/our-team/feng-shanshan) and Prof. [Yongyong Chen](http://faculty.hitsz.edu.cn/chenyongyong).
 
-If you are seeking any form of **academic cooperation**, please feel free to email me at sisuolv@stu.hit.edu.cn.
+If you are interested in any form of **academic collaboration**, please feel free to contact me at sisuolyu@outlook.com.
