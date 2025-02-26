@@ -14,5 +14,5 @@
 
 
 - ``ACL 2025`` Xiuze Zhou, Jiang Jian, Hong Chen, Junzhuo Li, **Sisuo LYU**, Zhang Wei, Yuanguo Lin, Xuming Hu, *A Multi-modal Adapter for Explainable Recommendations: Bridging LLMs and Collaborative Filtering* (under review)
-- ``NeurIPS Workshop 2022`` Bizhe Bai, Jie Tian, Tao Wang, Sicong Luo, **Sisuo LYU**, *YUSEG: Yolo and Unet is all you need for cell instance segmentation* [[Paper]]([https://openreview.net/forum?id=NZ4LUn1g9-])
+- ``NeurIPS Workshop 2022`` Bizhe Bai, Jie Tian, Tao Wang, Sicong Luo, **Sisuo LYU**, *YUSEG: Yolo and Unet is all you need for cell instance segmentation*  [[Paper]]([https://openreview.net/forum?id=NZ4LUn1g9-])  [[Code]]([https://github.com/sisuolv/YUSEG-Yolo-and-Unet-is-all-you-need-for-cell-instance-segmentation])
 -  ``Chinese Computer Software Copyright`` **Sisuo LYU**, *Extremely lightweight intelligent voice dialogue system*
