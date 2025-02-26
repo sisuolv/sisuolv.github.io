@@ -1,5 +1,5 @@
 # 📮 Contact
-- 📧  Email: [sisuolyu@outlook.com]
+- 📧  Email: sisuolyu@outlook.com
 - 💬  Wechat: sisuolyu  
 
 
