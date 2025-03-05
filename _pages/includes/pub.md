@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='/images/4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025 (Lecture)</div><img src='/images/4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Multi-view Hypergraph-based Contrastive Learning Model for Cold-Start Micro-video Recommendation* \\
