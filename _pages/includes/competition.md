@@ -39,7 +39,7 @@
 
 
 - ``Huawei Cloud Cup 2022`` **National Second Prize (5*th* place)**, "[*2022 Artificial Intelligence Application Innovation Competition*](https://competition.huaweicloud.com/information/1000041737/introduction?track=107)"   &ensp; [[Code]](https://github.com/sisuolv/Huawei-Cloud-Cup-2022-Artificial-Intelligence-Innovation-Application-Competition-Creators--5th)
-- ``China Collegiate Computing Contest 2022`` **National Third Prize, Rank 12/3,204** (preliminary contest)," [*WeChat Big Data Challenge*](https://algo.weixin.qq.com/)"   &ensp; [[Code]](https://github.com/sisuolv/2022-China-Collegiate-Computing-Contest-WeChat-Big-Data-Challenge--12rd)
+- ``China Collegiate Computing Contest 2022`` **National Third Prize, Rank 12/3,204**," [*WeChat Big Data Challenge*](https://algo.weixin.qq.com/)"   &ensp; [[Code]](https://github.com/sisuolv/2022-China-Collegiate-Computing-Contest-WeChat-Big-Data-Challenge--12rd)
 - ``NeurIPS 2022 Challenge`` **Honorable Mention Award (7*th* place)**, "[*Weakly Supervised Cell Segmentation in Multi-modality High-Resolution Microscopy Images*](https://neurips22-cellseg.grand-challenge.org/)"  &ensp; [[Code]](https://github.com/sisuolv/YUSEG-Yolo-and-Unet-is-all-you-need-for-cell-instance-segmentation)
 - ``Kaggle 2022`` **Silver Medal**, "[*Feedback Prize - Evaluating Student Writing*](https://www.kaggle.com/competitions/feedback-prize-2021)"
 - ``CCF BDCI 2021`` **National Third Prize (5*th* place)**, "[*Script Character Emotion Recognition*](https://www.datafountain.cn/competitions/518)"
