@@ -27,7 +27,7 @@
 
 
 
-- ``AAAI 2026`` Weilin Ruan, Xilin Dang, Ziyu Zhou, **Sisuo LYU**, Yuxuan Liang, "*Retrieval Augmented Spatio-Temporal Framework for Traffic Prediction*" (under review) &ensp; [[Paper]](https://arxiv.org/pdf/2508.16623)
+- ``arxiv`` Weilin Ruan, Xilin Dang, Ziyu Zhou, **Sisuo LYU**, Yuxuan Liang, "*Retrieval Augmented Spatio-Temporal Framework for Traffic Prediction*" &ensp; [[Paper]](https://arxiv.org/pdf/2508.16623)
 - ``ACM TOIS`` Xiuze Zhou, Jiang Jian, Hong Chen, Junzhuo Li, **Sisuo LYU**, Zhang Wei, Yuanguo Lin, Xuming Hu, "*A Multi-modal Adapter for Explainable Recommendations: Bridging LLMs and Collaborative Filtering*" (under review)
 - ``IEEE TITS`` Wei Dai, Shengen Wu, Wei Wu, Zhenhao Wang, **Sisuo LYU**, Haicheng Liao, Runwei Guan, Weiping Ding, Limin Yu, Yutao Yue, "*Large Foundation Models for Trajectory Prediction in Autonomous Driving: A Comprehensive Survey*" (under review)
 - ``NeurIPS Workshop 2022`` Bizhe Bai, Jie Tian, Tao Wang, Sicong Luo, **Sisuo LYU**, "*YUSEG: Yolo and Unet is all you need for cell instance segmentation*" &ensp;[[Paper]](https://openreview.net/forum?id=NZ4LUn1g9-) &ensp;[[Code]](https://github.com/sisuolv/YUSEG-Yolo-and-Unet-is-all-you-need-for-cell-instance-segmentation)
