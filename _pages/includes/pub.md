@@ -19,7 +19,7 @@
 *Multi-view Hypergraph-based Contrastive Learning Model for Cold-Start Micro-video Recommendation* **(Oral)**\\
 **Sisuo Lyu**, Xiuze Zhou, Xuming Hu \\
 [[Paper]](https://ieeexplore.ieee.org/document/10887695) &ensp;[[Code]](https://github.com/sisuolv/MHCR) &ensp;[[PPT]](https://github.com/sisuolv/sisuolv.github.io/blob/main/docs/6069_SisuoLYU_PPT.pdf) &ensp;[[Poster]](https://github.com/sisuolv/sisuolv.github.io/blob/main/docs/6069_SisuoLYU_Poster.pdf)
-- This work proposes MHCR, a novel framework that leverages multi-view hypergraph structures and contrastive learning to address the challenges of over-smoothing and cold-start problems in micro-video recommendation systems by effectively utilizing multimodal features and self-supervised learning signals.
+- This work proposes MHCR, the first model to leverage hypergraphs and contrastive learning for cold-start micro-video recommendation, implementing multi-view multimodal feature extraction with user-item graph, item-item affinity graph, and hypergraph layers combined with cross-modal and graph-hypergraph contrastive learning to address sparse interaction signals and over-smoothing challenges in platforms like TikTok and Kwai.
 </div>
 </div>
 
