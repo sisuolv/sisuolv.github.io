@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='/images/OccamVTS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='/images/OccamVTS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *OccamVTS: Distilling Vision Models to 1% Parameters for Time Series Forecasting*\\
@@ -28,7 +28,7 @@
 <div class='paper-box-text' markdown="1">
 
 *Improving Foundation Model Group Robustness with Auxiliary Sentence Embeddings* (Under Review)\\
-Hong Liu*, **Sisuo Lyu\***, Jie Li, Yan Teng, Yingchun Wang (Equal Contribution) 
+**Sisuo Lyu**, Hong Liu, Jie Li, Yan Teng, Yingchun Wang
 
 - This work proposes DoubleCCA, a novel framework that leverages auxiliary sentence embedding models to enhance group robustness of vision-language foundation models against spurious correlations, addressing critical bias mitigation challenges in trustworthy AI deployment through a two-stage canonical correlation analysis technique that first aligns augmented and original text embeddings in a shared semantic space, then reconstructs invariant features to merge with visual representations, effectively reducing sensitivity to group-based biases.
 </div>
@@ -37,7 +37,7 @@ Hong Liu*, **Sisuo Lyu\***, Jie Li, Yan Teng, Yingchun Wang (Equal Contribution)
 
 
 
-- ``arxiv`` Weilin Ruan, Xilin Dang, Ziyu Zhou, **Sisuo LYU**, Yuxuan Liang, "*Retrieval Augmented Spatio-Temporal Framework for Traffic Prediction*" &ensp; [[Paper]](https://arxiv.org/pdf/2508.16623)
+- ``AAAI 2026`` Weilin Ruan, Xilin Dang, Ziyu Zhou, **Sisuo LYU**, Yuxuan Liang, "*Retrieval Augmented Spatio-Temporal Framework for Traffic Prediction*" &ensp; [[Paper]](https://arxiv.org/pdf/2508.16623)
 - ``ACM TOIS`` Xiuze Zhou, Jiang Jian, Hong Chen, Junzhuo Li, **Sisuo LYU**, Zhang Wei, Yuanguo Lin, Xuming Hu, "*A Multi-modal Adapter for Explainable Recommendations: Bridging LLMs and Collaborative Filtering*" (under review)
 - ``IEEE TITS`` Wei Dai, Shengen Wu, Wei Wu, Zhenhao Wang, **Sisuo LYU**, Haicheng Liao, Runwei Guan, Weiping Ding, Limin Yu, Yutao Yue, "*Large Foundation Models for Trajectory Prediction in Autonomous Driving: A Comprehensive Survey*" (under review)
 - ``NeurIPS Workshop 2022`` Bizhe Bai, Jie Tian, Tao Wang, Sicong Luo, **Sisuo LYU**, "*YUSEG: Yolo and Unet is all you need for cell instance segmentation*" &ensp;[[Paper]](https://openreview.net/forum?id=NZ4LUn1g9-) &ensp;[[Code]](https://github.com/sisuolv/YUSEG-Yolo-and-Unet-is-all-you-need-for-cell-instance-segmentation)
