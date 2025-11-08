@@ -5,7 +5,7 @@
 
 *OccamVTS: Distilling Vision Models to 1% Parameters for Time Series Forecasting*\\
 **Sisuo Lyu**, Siru Zhong, Weilin Ruan, Qingxiang Liu, Qingsong Wen, Hui Xiong, Yuxuan Liang \\
-[[Paper]](https://www.arxiv.org/abs/2508.01727) 
+[[Paper]](https://www.arxiv.org/abs/2508.01727) &ensp;[[Code]](https://github.com/sisuolv/OccamVTS)
 - This work proposes OccamVTS, a novel knowledge distillation framework that extracts only the essential 1% of predictive information from large vision models (LVMs) to address the severe parameter redundancy and semantic misalignment challenges in time series forecasting by employing pre-trained LVMs as privileged teachers to guide lightweight student networks through pyramid-style feature alignment and selective distillation, effectively filtering out irrelevant high-level semantic noise while preserving crucial low-level temporal patterns.
 </div>
 </div>
