@@ -29,7 +29,7 @@
 
 *Improving Foundation Model Group Robustness with Auxiliary Sentence Embeddings* \\
 **Sisuo Lyu**, Hong Liu, Jie Li, Yan Teng, Yingchun Wang
-
+[[Paper]](https://openreview.net/forum?id=5rMtiB96cg) &ensp;[[Code]](https://github.com/sisuolv/doublecca)
 - This work proposes DoubleCCA, a novel framework that leverages auxiliary sentence embedding models to enhance group robustness of vision-language foundation models against spurious correlations, addressing critical bias mitigation challenges in trustworthy AI deployment through a two-stage canonical correlation analysis technique that first aligns augmented and original text embeddings in a shared semantic space, then reconstructs invariant features to merge with visual representations, effectively reducing sensitivity to group-based biases.
 </div>
 </div>
@@ -37,7 +37,7 @@
 
 
 
-- ``AAAI 2026`` Weilin Ruan, Xilin Dang, Ziyu Zhou, **Sisuo Lyu**, Yuxuan Liang, "*Retrieval Augmented Spatio-Temporal Framework for Traffic Prediction*" &ensp; [[Paper]](https://arxiv.org/pdf/2508.16623)
+- ``AAAI 2026`` Weilin Ruan, Xilin Dang, Ziyu Zhou, **Sisuo Lyu**, Yuxuan Liang, "*Retrieval Augmented Spatio-Temporal Framework for Traffic Prediction*" &ensp; [[Paper]](https://arxiv.org/pdf/2508.16623) 
 - ``ACM TOIS`` Xiuze Zhou, Jiang Jian, Hong Chen, Junzhuo Li, **Sisuo Lyu**, Zhang Wei, Yuanguo Lin, Xuming Hu, "*A Multi-modal Adapter for Explainable Recommendations: Bridging LLMs and Collaborative Filtering*" (under review)
 - ``IEEE TITS`` Wei Dai, Shengen Wu, Wei Wu, Zhenhao Wang, **Sisuo Lyu**, Haicheng Liao, Runwei Guan, Weiping Ding, Limin Yu, Yutao Yue, "*Large Foundation Models for Trajectory Prediction in Autonomous Driving: A Comprehensive Survey*" (under review)
 - ``KBS`` Xiuze Zhou, **Sisuo Lyu**, Yuanguo Lin, Wei Zhang, Wei Ding, Daoquan Chen, Xinyu Gu, Xuming Hu, "*Contrastive Learning for Transformer Collaborative Filtering*" (under review)
