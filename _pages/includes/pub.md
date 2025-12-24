@@ -27,7 +27,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR</div><img src='/images/5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*Improving Foundation Model Group Robustness with Auxiliary Sentence Embeddings* (Under Review)\\
+*Improving Foundation Model Group Robustness with Auxiliary Sentence Embeddings* \\
 **Sisuo Lyu**, Hong Liu, Jie Li, Yan Teng, Yingchun Wang
 
 - This work proposes DoubleCCA, a novel framework that leverages auxiliary sentence embedding models to enhance group robustness of vision-language foundation models against spurious correlations, addressing critical bias mitigation challenges in trustworthy AI deployment through a two-stage canonical correlation analysis technique that first aligns augmented and original text embeddings in a shared semantic space, then reconstructs invariant features to merge with visual representations, effectively reducing sensitivity to group-based biases.
