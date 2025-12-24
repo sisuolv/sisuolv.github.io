@@ -5,7 +5,7 @@
 
 *OccamVTS: Distilling Vision Models to 1% Parameters for Time Series Forecasting*\\
 **Sisuo Lyu**, Siru Zhong, Weilin Ruan, Qingxiang Liu, Qingsong Wen, Hui Xiong, Yuxuan Liang \\
-[[Paper]](https://www.arxiv.org/abs/2508.01727) &ensp;[[Code]](https://github.com/sisuolv/OccamVTS)
+[[Paper]](https://www.arxiv.org/abs/2508.01727) &ensp;[[Code]](https://github.com/sisuolv/OccamVTS) &ensp;[[Poster]](https://github.com/sisuolv/sisuolv.github.io/blob/main/docs/OccamVTS_AAAI26_Poster_20251128205015.pdf)
 - This work proposes OccamVTS, a novel knowledge distillation framework that extracts only the essential 1% of predictive information from large vision models (LVMs) to address the severe parameter redundancy and semantic misalignment challenges in time series forecasting by employing pre-trained LVMs as privileged teachers to guide lightweight student networks through pyramid-style feature alignment and selective distillation, effectively filtering out irrelevant high-level semantic noise while preserving crucial low-level temporal patterns.
 </div>
 </div>
@@ -29,7 +29,7 @@
 
 *Improving Foundation Model Group Robustness with Auxiliary Sentence Embeddings* \\
 **Sisuo Lyu**, Hong Liu, Jie Li, Yan Teng, Yingchun Wang \\
-[[Paper]](https://openreview.net/forum?id=5rMtiB96cg) &ensp;[[Code]](https://github.com/sisuolv/doublecca)
+[[Paper]](https://openreview.net/forum?id=5rMtiB96cg) &ensp;[[Code]](https://github.com/sisuolv/doublecca)  
 - This work proposes DoubleCCA, a novel framework that leverages auxiliary sentence embedding models to enhance group robustness of vision-language foundation models against spurious correlations, addressing critical bias mitigation challenges in trustworthy AI deployment through a two-stage canonical correlation analysis technique that first aligns augmented and original text embeddings in a shared semantic space, then reconstructs invariant features to merge with visual representations, effectively reducing sensitivity to group-based biases.
 </div>
 </div>
