@@ -6,4 +6,4 @@
 
 # 💼 Internship
 
-- *2025.09 - 2026.03*, Research Intern, FinAI Center, [International Digital Economy Academy (IDEA)](https://www.idea.edu.cn/), advised by Prof. [Jian Guo](https://idea.edu.cn/person/guojian/).
+- *2025.09 - 2026.03*, Researcher, FinAI Center, [International Digital Economy Academy (IDEA)](https://www.idea.edu.cn/), advised by Prof. [Jian Guo](https://idea.edu.cn/person/guojian/).
