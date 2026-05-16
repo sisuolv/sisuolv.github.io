@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='/images/TSmemory.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='/images/Tsmemory.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *TS-Memory: Plug-and-Play Memory for Time Series Foundation Models*\\
@@ -52,8 +52,7 @@
 
 
 - ``AAAI 2026`` Weilin Ruan, Xilin Dang, Ziyu Zhou, **Sisuo Lyu**, Yuxuan Liang, "*Retrieval Augmented Spatio-Temporal Framework for Traffic Prediction*" &ensp; [[Paper]](https://arxiv.org/pdf/2508.16623) &ensp;[[Code]](https://github.com/RWLinno/RAST)
-- ``ACM TOIS`` Xiuze Zhou, Jiang Jian, Hong Chen, Junzhuo Li, **Sisuo Lyu**, Zhang Wei, Yuanguo Lin, Xuming Hu, "*A Multi-modal Adapter for Explainable Recommendations: Bridging LLMs and Collaborative Filtering*" (under review)
-- ``IEEE TITS`` Wei Dai, Shengen Wu, Wei Wu, Zhenhao Wang, **Sisuo Lyu**, Haicheng Liao, Runwei Guan, Weiping Ding, Limin Yu, Yutao Yue, "*Large Foundation Models for Trajectory Prediction in Autonomous Driving: A Comprehensive Survey*" (under review) &ensp; [[Paper]](https://arxiv.org/abs/2509.10570)
-- ``KBS`` Xiuze Zhou, **Sisuo Lyu**, Yuanguo Lin, Wei Zhang, Wei Ding, Daoquan Chen, Xinyu Gu, Xuming Hu, "*Contrastive Learning for Transformer Collaborative Filtering*" (under review)
+- ``ACM MM 2026`` Xiuze Zhou, Liping Qiu, Hong Chen, Yuanlin Chu, **Sisuo Lyu**, Zhibin Jiang, Xiaowen Chu, Xuming Hu, "*AdsTrace: A Multimodal Dataset for Second-by-Second CTR and Advertising Effectiveness Prediction in Short-video Ads*" (Under Review) &ensp; [[Dataset]](https://huggingface.co/datasets/Xiuze/AdsTrace) &ensp;[[Code]](https://github.com/XiuzeZhou/AdsTrace)
+- ``arxiv`` Wei Dai, Shengen Wu, Wei Wu, Zhenhao Wang, **Sisuo Lyu**, Haicheng Liao, Runwei Guan, Weiping Ding, Limin Yu, Yutao Yue, "*Large Foundation Models for Trajectory Prediction in Autonomous Driving: A Comprehensive Survey*" (under review) &ensp; [[Paper]](https://arxiv.org/abs/2509.10570)
 - ``NeurIPS Workshop 2022`` Bizhe Bai, Jie Tian, Tao Wang, Sicong Luo, **Sisuo Lyu**, "*YUSEG: Yolo and Unet is all you need for cell instance segmentation*" &ensp;[[Paper]](https://openreview.net/forum?id=NZ4LUn1g9-) &ensp;[[Code]](https://github.com/sisuolv/YUSEG-Yolo-and-Unet-is-all-you-need-for-cell-instance-segmentation)
 -  ``Chinese Computer Software Copyright`` **Sisuo Lyu**, "*Extremely lightweight intelligent voice dialogue system*"
