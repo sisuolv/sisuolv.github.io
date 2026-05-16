@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sisuo Lyu (吕思索)"
-description              : "MPhil student in Data Science and Analytics."
+description              : "Ph.D. student in Computer Science and Engineering."
 repository               : "sisuolv/sisuolv.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -26,8 +26,8 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Sisuo Lyu (吕思索)"
   avatar           : "images/apple-touch-icon.png"
-  bio              : "The Hong Kong University of Science and Technology (Guangzhou)"
-  location         : "Guangzhou, China"
+  bio              : "The Hong Kong University of Science and Technology"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BaDG4pAAAAAJ&hl=zh-CN)"
