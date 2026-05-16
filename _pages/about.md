@@ -26,5 +26,3 @@ redirect_from:
 {% include_relative includes/honers.md %}
 
 {% include_relative includes/edu.md %}
-
-{% include_relative includes/contact.md %}
