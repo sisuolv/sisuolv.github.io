@@ -1,10 +1,9 @@
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='/images/Tsmemory.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><div class="oral-badge">Oral</div><img src='/images/Tsmemory.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span style="font-size: 1.18em; font-weight: 700; display: flex; justify-content: space-between; align-items: baseline; gap: 0.75em; width: 100%;"><em>TS-Memory: Plug-and-Play Memory for Time Series Foundation Models</em>
-<strong style="white-space: nowrap; margin-left: auto;">(Oral)</strong></span>\\
+<span style="font-size: 1.18em; font-weight: 700;"><em>TS-Memory: Plug-and-Play Memory for Time Series Foundation Models</em></span>\\
 **Sisuo Lyu**, Siru Zhong, Tiegang Chen, Weilin Ruan, Qingxiang Liu, Taiqiang Lv, Qingsong Wen, Raymond Chi-Wing Wong, Yuxuan Liang \\
 [[Paper]](https://arxiv.org/abs/2602.11550) &ensp;[[Code]](https://github.com/sisuolv/TS-Memory)
 - This work proposes TS-Memory, a plug-and-play memory adapter for time series foundation models that compiles retrieval-induced distributional knowledge from an offline, leakage-safe kNN teacher into a lightweight parametric module. By freezing the TSFM backbone and applying confidence-gated memory distillation, TS-Memory enables retrieval-free, constant-time inference while improving both point and probabilistic forecasting across diverse TSFM backbones and benchmarks.
@@ -35,10 +34,10 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='/images/4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><div class="oral-badge">Oral</div><img src='/images/4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span style="font-size: 1.18em; font-weight: 700; display: flex; justify-content: space-between; align-items: baseline; gap: 0.75em; width: 100%;"><em>Multi-view Hypergraph-based Contrastive Learning Model for Cold-Start Micro-video Recommendation</em><strong style="white-space: nowrap; margin-left: auto;">(Oral)</strong></span>\\
+<span style="font-size: 1.18em; font-weight: 700;"><em>Multi-view Hypergraph-based Contrastive Learning Model for Cold-Start Micro-video Recommendation</em></span>\\
 **Sisuo Lyu**, Xiuze Zhou, Xuming Hu \\
 [[Paper]](https://ieeexplore.ieee.org/document/10887695) &ensp;[[Code]](https://github.com/sisuolv/MHCR) &ensp;[[PPT]](https://github.com/sisuolv/sisuolv.github.io/blob/main/docs/6069_SisuoLYU_PPT.pdf) &ensp;[[Poster]](https://github.com/sisuolv/sisuolv.github.io/blob/main/docs/6069_SisuoLYU_Poster.pdf)
 - This work proposes MHCR, the first model to leverage hypergraphs and contrastive learning for cold-start micro-video recommendation, implementing multi-view multimodal feature extraction with user-item graph, item-item affinity graph, and hypergraph layers combined with cross-modal and graph-hypergraph contrastive learning to address sparse interaction signals and over-smoothing challenges in platforms like TikTok and Kwai.
