@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='/images/Tsmemory.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span style="font-size: 1.18em; font-weight: 700;"><em>TS-Memory: Plug-and-Play Memory for Time Series Foundation Models</em></span>\\
+<span style="font-size: 1.18em; font-weight: 700;"><em>TS-Memory: Plug-and-Play Memory for Time Series Foundation Models</em><strong>(Oral)</strong></span>\\
 **Sisuo Lyu**, Siru Zhong, Tiegang Chen, Weilin Ruan, Qingxiang Liu, Taiqiang Lv, Qingsong Wen, Raymond Chi-Wing Wong, Yuxuan Liang \\
 [[Paper]](https://arxiv.org/abs/2602.11550) &ensp;[[Code]](https://github.com/sisuolv/TS-Memory)
 - This work proposes TS-Memory, a plug-and-play memory adapter for time series foundation models that compiles retrieval-induced distributional knowledge from an offline, leakage-safe kNN teacher into a lightweight parametric module. By freezing the TSFM backbone and applying confidence-gated memory distillation, TS-Memory enables retrieval-free, constant-time inference while improving both point and probabilistic forecasting across diverse TSFM backbones and benchmarks.
