@@ -1,5 +1,5 @@
 
-I am currently a first-year Ph.D. student in the [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by Prof. [Song Guo](https://cse.hkust.edu.hk/~songguo/).
+I am currently a first-year Ph.D. student in the [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/).
 
 My research interests include **World Models**, **Embodied AI**, and **Data Mining**.
 
