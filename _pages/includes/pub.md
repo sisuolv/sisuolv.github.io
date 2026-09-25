@@ -1,7 +1,5 @@
 # 📝 Publications 
 
-† Equal contribution.
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><div class="oral-badge">Oral</div><img src='/images/Tsmemory.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -46,6 +44,7 @@ Yutian Jiang†, Ruijie Li†, **Sisuo Lyu†**, Xixuan Hao, Qingxiang Liu, Yong
 </div>
 </div>
 
+† Equal contribution.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><div class="oral-badge">Oral</div><img src='/images/4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
