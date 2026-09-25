@@ -38,13 +38,12 @@
 <div class='paper-box-text' markdown="1">
 
 <span style="font-size: 1.18em; font-weight: 700;"><em>Perceive to Hypothesize, Verify to Ground: An Agentic Reasoning Framework for Open-World Geo-Localization</em></span>\\
-Yutian Jiang†, Ruijie Li†, **Sisuo Lyu†**, Xixuan Hao, Qingxiang Liu, Yongzi Yu, Yuxuan Liang \\
+Yutian Jiang†, Ruijie Li†, **Sisuo Lyu†**, Xixuan Hao, Qingxiang Liu, Yongzi Yu, Yuxuan Liang († Equal contribution.) \\
 [[Paper]](https://arxiv.org/abs/2608.29880) &ensp;[[Code]](https://github.com/Arandinglv/GeoPAVE)
 - This work proposes GeoPAVE, a bi-level agentic framework for open-world geo-localization that separates perception-based hypothesis generation from evidence-grounded verification. It further introduces PAVED, a dataset derived from real-world user check-ins with multi-hop queries, multi-round tool use, and structured perception-verification traces, enabling multimodal agents to support, refute, and refine location hypotheses instead of relying on single-pass visual guesses.
 </div>
 </div>
 
-† Equal contribution.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><div class="oral-badge">Oral</div><img src='/images/4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
