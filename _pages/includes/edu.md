@@ -1,6 +1,6 @@
 # 🎓 Education
 
-- *2026.09 - Present*, Ph.D. in Computer Science and Engineering, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by Prof. [Raymond Chi-Wing Wong](https://cse.hkust.edu.hk/~raywong/) and Prof. [Wanli Ouyang](https://www.slai.edu.cn/en/teacher/170).
+- *2026.09 - Present*, Ph.D. in Computer Science and Engineering, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by Prof. [Raymond Chi-Wing Wong](https://cse.hkust.edu.hk/~raywong/) and Prof. [Wanli Ouyang](https://wlouyang.github.io/).
 - *2024.09 - 2026.07*, MPhil in Data Science and Analytics, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Yuxuan Liang](https://yuxuanliang.com/) and Prof. [Hui Xiong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIONG-Hui/xionghui).
 - *2020.09 - 2024.06*, B.Eng. in Computer Science and Technology, [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/), advised by Prof. [Miao Zhang](http://faculty.hitsz.edu.cn/zhangmiao).
 
