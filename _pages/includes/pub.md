@@ -1,5 +1,7 @@
 # 📝 Publications 
 
+† Equal contribution.
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><div class="oral-badge">Oral</div><img src='/images/Tsmemory.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -34,6 +36,17 @@
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><div class="oral-badge">Oral</div><img src='https://reyjerry.github.io/images/GeoPave.png' alt="GeoPAVE" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size: 1.18em; font-weight: 700;"><em>Perceive to Hypothesize, Verify to Ground: An Agentic Reasoning Framework for Open-World Geo-Localization</em></span>\\
+Yutian Jiang†, Ruijie Li†, **Sisuo Lyu†**, Xixuan Hao, Qingxiang Liu, Yongzi Yu, Yuxuan Liang \\
+[[Paper]](https://arxiv.org/abs/2608.29880) &ensp;[[Code]](https://github.com/Arandinglv/GeoPAVE)
+- This work proposes GeoPAVE, a bi-level agentic framework for open-world geo-localization that separates perception-based hypothesis generation from evidence-grounded verification. It further introduces PAVED, a dataset derived from real-world user check-ins with multi-hop queries, multi-round tool use, and structured perception-verification traces, enabling multimodal agents to support, refute, and refine location hypotheses instead of relying on single-pass visual guesses.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><div class="oral-badge">Oral</div><img src='/images/4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -49,10 +62,7 @@
 
 
 
-† Equal contribution.
-
-- ``EMNLP 2026`` **Oral** Yutian Jiang†, Ruijie Li†, **Sisuo Lyu†**, Xixuan Hao, Qingxiang Liu, Yongzi Yu, Yuxuan Liang, "*Perceive to Hypothesize, Verify to Ground: An Agentic Reasoning Framework for Open-World Geo-Localization*" &ensp; [[Paper]](https://arxiv.org/abs/2608.29880) &ensp;[[Code]](https://github.com/Arandinglv/GeoPAVE)
-- ``arXiv 2026`` Qingxiang Liu, Anqi Liang, Zhuoyang Jiang, Yutian Jiang, **Sisuo Lyu**, Yu Ji, Haomin Wen, Yuxuan Liang, "*Think Before You Act: Intention-Guided Reasoning for LLM-Based Location Prediction*" &ensp; [[Paper]](https://arxiv.org/abs/2606.08122)
+- ``SIGSPATIAL 2026`` Qingxiang Liu, Anqi Liang, Zhuoyang Jiang, Yutian Jiang, **Sisuo Lyu**, Yu Ji, Haomin Wen, Yuxuan Liang, "*Think Before You Act: Intention-Guided Reasoning for LLM-Based Location Prediction*" &ensp; [[Paper]](https://arxiv.org/abs/2606.08122)
 - ``AAAI 2026`` Weilin Ruan, Xilin Dang, Ziyu Zhou, **Sisuo Lyu**, Yuxuan Liang, "*Retrieval Augmented Spatio-Temporal Framework for Traffic Prediction*" &ensp; [[Paper]](https://arxiv.org/pdf/2508.16623) &ensp;[[Code]](https://github.com/RWLinno/RAST)
 - ``arxiv`` Wei Dai, Shengen Wu, Wei Wu, Zhenhao Wang, **Sisuo Lyu**, Haicheng Liao, Runwei Guan, Weiping Ding, Limin Yu, Yutao Yue, "*Large Foundation Models for Trajectory Prediction in Autonomous Driving: A Comprehensive Survey*" &ensp; [[Paper]](https://arxiv.org/abs/2509.10570)
 - ``NeurIPS Workshop 2022`` Bizhe Bai, Jie Tian, Tao Wang, Sicong Luo, **Sisuo Lyu**, "*YUSEG: Yolo and Unet is all you need for cell instance segmentation*" &ensp;[[Paper]](https://openreview.net/forum?id=NZ4LUn1g9-) &ensp;[[Code]](https://github.com/sisuolv/YUSEG-Yolo-and-Unet-is-all-you-need-for-cell-instance-segmentation)
