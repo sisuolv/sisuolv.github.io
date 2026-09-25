@@ -1,5 +1,5 @@
 
-I am currently a first-year Ph.D. student in the [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by Prof. [Raymond Chi-Wing Wong](https://cse.hkust.edu.hk/~raywong/).
+I am currently a first-year Ph.D. student in the [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by Prof. [Raymond Chi-Wing Wong](https://cse.hkust.edu.hk/~raywong/) and Prof. [Wanli Ouyang](https://www.slai.edu.cn/en/teacher/170).
 
 My research interests include **Auto Research**, **AI for Science (AI4Science)**, and **Data Mining**.
 
