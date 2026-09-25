@@ -1,7 +1,7 @@
 
 I am currently a first-year Ph.D. student in the [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by Prof. [Raymond Chi-Wing Wong](https://cse.hkust.edu.hk/~raywong/).
 
-My research interests include **World Models**, **Embodied AI**, and **Data Mining**.
+My research interests include **Auto Research**, **AI for Science (AI4Science)**, and **Data Mining**.
 
 Before joining HKUST, I was an MPhil student in [Data Science and Analytics](https://dsa.hkust-gz.edu.cn/) at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Yuxuan Liang](https://yuxuanliang.com/) and Prof. [Hui Xiong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIONG-Hui/xionghui).
 
