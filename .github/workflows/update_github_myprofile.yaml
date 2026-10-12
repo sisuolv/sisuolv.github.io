@@ -3,6 +3,8 @@ name: Update github myprofile
 on: 'page_build'
 jobs:
   build:
+    # Disabled: inherited template sync targets an unrelated repository.
+    if: ${{ false }}
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
